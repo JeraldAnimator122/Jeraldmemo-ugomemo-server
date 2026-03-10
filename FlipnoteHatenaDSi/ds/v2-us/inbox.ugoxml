@@ -1,1 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+    <layout>
+        <value>0</value>
+    </layout>
 
+    <title>
+        <label>Inbox</label>
+        <label />
+        <label />
+        <label />
+        <label />
+        <num>0</num>
+    </title>
+
+    <button>
+        <label>Trans&amp; </label>
+        <address>http://flipnote.hatena.com/ds/v2-eu/letter/263634732863380393.htm</address>
+        <trait>2</trait>
+        <value />
+        <value>0</value>
+    </button>
+
+    <button>
+        <label>Notic&amp; </label>
+        <address>http://flipnote.hatena.com/ds/v2-eu/setting.letter.htm</address>
+        <trait>3</trait>
+        <value />
+        <value>0</value>
+    </button>
+</ugo_xml>
